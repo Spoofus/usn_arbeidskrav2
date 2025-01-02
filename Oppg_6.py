@@ -10,5 +10,7 @@ class Oppg_6():
         pizza_demand = 0
     
     def run(self):
-        
-            
+        age = int(input("Enter your age: "))
+        people = age
+        pizzas_needed = math.ceil(people / 4)
+        print(f"You need to purchase {pizzas_needed} pizzas.")

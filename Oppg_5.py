@@ -7,10 +7,11 @@ import math
 
 class Oppg_5():
     def __init__(self):
-        
+        pass
     
     def run(self):
         try:
+            circle = 0
         except ValueError:
             print("Invalid input. Please enter a valid number of students in Integer")
 
