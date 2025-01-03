@@ -29,8 +29,8 @@ class Main():
         print("2. Assignment 2 - Calculate number of pizza needed")
         print("3. Assignment 3 - Convert Grade to Radient")
         print("4. Assignment 4 - Add or lookup Country in dataset")
-        print("5. Assignment 5 - Calculate the area of a circle")
-        print("6. Assignment 6 - Calculate something something")
+        print("5. Assignment 5 - Calculate the area and outer perimeter of a figure")
+        print("6. Assignment 6 - Plot function 𝑓(𝑥)")
         print("7. Exit")
     
     def execute_choice(self, choice):
